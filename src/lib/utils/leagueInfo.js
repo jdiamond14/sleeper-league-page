@@ -1,18 +1,23 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
-export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const leagueID = "737043930796994560"; // your league ID
+export const leagueName = "Madden IRL"; // your league name
+export const dues = 50; // (optional) used in template constitution page
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>🏈 Greetings, mighty warriors of 'Madden IRL' Fantasy Football League! 🏈
+
+Prepare your armor and ready your strategies, for the battle of the gridiron approaches! Our grand draft shall unfold on Wednesday, August 23rd, at 7:00 PM Eastern Standard Time (EST). For those hailing from the Central lands, mark the hour of 6:00 PM Central Standard Time (CST). And should you reside in the Western realms, the moment shall strike at 4:00 PM Pacific Standard Time (PST).
+
+But heed this call with utmost urgency: the realm's fate hangs upon your shoulders! Rally your forces and submit your two valiant keepers within the hallowed halls of the Sleeper app. The Keeper submission deadline, crucial as the eve of battle, is the day before the draft, on Tuesday, August 22nd.
+
+Let the winds of victory carry your name across the realm, and may your selections reshape the fate of 'Madden IRL'! ⚔️🏆
+
+Yours in conquest,
+Cody "Lumbago" Cauthen
+Commissioner of 'Madden IRL' Fantasy Football League</p>
 `;
 
 /*   STEP 3   */
